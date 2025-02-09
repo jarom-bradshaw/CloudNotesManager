@@ -60,7 +60,10 @@ This project uses a cloud-based SQL database service (such as Google Cloud SQL o
 
 
 - [GitHub Repository Structure Best Practices](https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405)
-- [WOfficial Java Language Documentation]https://docs.oracle.com/javase/specs/jls/se22/html/index.html)
+- [Official Java Language Documentation](https://docs.oracle.com/javase/specs/jls/se22/html/index.html)
+- [How to make a cloud project (Network Chuch)](https://www.youtube.com/watch?v=xBIowQ0WaR8)
+- [Amazon instructions on how to set up a mySQL database](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html)
+- [Choices for AWS Free Tier Capabilities.](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
 # Future Work
 - **Enhanced Security Features:**  
