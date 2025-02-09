@@ -13,11 +13,11 @@ The software supports a range of features including:
 The primary goal of CloudNotesManager is to further my expertise as a software engineer by exploring cloud integration, database management, and scalable application design in Java. This project not only strengthens my programming skills but also provides valuable insights into building secure and robust cloud-based systems.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=vRRLJmCF1wA)
 
 # Cloud Database
 
-This project uses a cloud-based SQL database service (such as Google Cloud SQL or Amazon RDS) to manage and store application data securely. The database is structured to support efficient data retrieval and scalability:
+This project uses a cloud-based SQL database service (Amazon RDS) to manage and store application data securely. The database is structured to support efficient data retrieval and scalability:
 
 - **Users Table:**  
   Stores user information, including login credentials, authentication tokens, and profile data.
@@ -53,7 +53,7 @@ This project uses a cloud-based SQL database service (such as Google Cloud SQL o
   JUnit for writing and running unit tests to ensure code quality and reliability.
   
 - **Cloud Services:**  
-  A cloud SQL database service (e.g., Google Cloud SQL or Amazon RDS) is used for data storage and management.
+  A cloud SQL database service (Amazon RDS) is used for data storage and management.
 
 
 # Useful Websites
