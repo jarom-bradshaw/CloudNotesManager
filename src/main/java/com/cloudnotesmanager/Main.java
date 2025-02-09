@@ -1,9 +1,19 @@
 package com.cloudnotesmanager; // This is a part of the Maven package which will help them use the file set up correctly.
 
+import java.sql.Connection;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
+        // Some tests to make sure that I successfully connected to the RDS Database.
+        // Connection conn = DatabaseConnector.getConnection();
+        // if (conn != null) {
+        //     System.out.println("Successfully connected to the database!");
+        // } else {
+        //     System.out.println("Failed to connect to the database.");
+        // }
+
         Scanner scanner = new Scanner(System.in);
         int option = 0;
 
